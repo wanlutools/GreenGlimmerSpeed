@@ -1,3 +1,17 @@
+vmess = data-hk-v1.shwjfkw.cn:20207, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A1【精品】上海-香港HKBN | 解锁Netflix 、Disney+ | V2RAY隧道 |
+vmess = data-hk-v2.usabooks.com.cn:20207, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A2 【精品】广州-香港HKBN | 解锁Netflix 、Disney+ | V2RAY隧道 |
+vmess = data-hk-v1.usabooks.com.cn:20206, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A3【精品】上海-香港WTT | V2RAY隧道 |
+vmess = data-hk-v2.shwjfkw.cn:20206, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A4【精品】广州-香港WTT | V2RAY隧道 |
+vmess = data-hk-v1.usabooks.com.cn:20205, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A5【精品】上海-香港PCCW | V2RAY隧道 |
+vmess = data-hk-v2.usabooks.com.cn:20205, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇭🇰 8A6【精品】广州-香港PCCW | V2RAY隧道 |
+vmess = data-tw-v1.usabooks.com.cn:20221, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇨🇳 8B1【精品】上海-台湾 | V2RAY隧道 |
+vmess = data-tw-v2.shwjfkw.cn:20221, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇨🇳 8B2【精品】广州-台湾 | V2RAY隧道 |
+vmess = data-jp-v1.usabooks.com.cn:20301, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇯🇵 8C1【精品】上海-日本 | V2RAY隧道 |
+vmess = data-us-v1.shwjfkw.cn:20401, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇺🇸 8D1【精品】上海-美国 | 解锁Netflix 、Disney+ | V2RAY隧道 |
+vmess = data-us-v2.usabooks.com.cn:20402, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🏳️‍🌈 8D2【ChatGTP专用】美国 | 5x流量 | V2RAY隧道 |\t
+vmess = data-sg-v1.shwjfkw.cn:20701, method=chacha20-ietf-poly1305, password=b1478e24-4916-3abe-8f17-15931012ecbe, aead=true, obfs=ws, obfs-host=deb.debian.org, obfs-uri=/debian, fast-open=true, udp-relay=true, tag=🇸🇬 8E1【精品】上海-新加坡 | V2RAY隧道 |
+
+
 port: 7890
 socks-port: 7891
 allow-lan: true
