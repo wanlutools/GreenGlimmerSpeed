@@ -67,3 +67,13 @@ proxies:
   - {name: 🇷🇺 俄罗斯01, server: node05.sa3g6doi98x23as1axc.catapi.management, port: 35015, type: ss, cipher: chacha20-ietf-poly1305, password: fdc6583b-04b1-46bb-b2d8-78c265de0d1f, udp: true}
   - {name: 乌克兰01, server: node03.gde52px1vwf5q6301fxn.catapi.management, port: 35016, type: ss, cipher: chacha20-ietf-poly1305, password: fdc6583b-04b1-46bb-b2d8-78c265de0d1f, udp: true}
   - {name: 🇺🇸 美国家宽01, server: node05.sa3g6doi98x23as1axc.catapi.management, port: 35017, type: ss, cipher: chacha20-ietf-poly1305, password: fdc6583b-04b1-46bb-b2d8-78c265de0d1f, udp: true}
+  - {name: 🏳️‍🌈 剩余流量：100 GB, server: us01.airpor.top, port: 28235, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: 距离下次重置剩余：5 天, server: us01.airpor.top, port: 28235, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: 套餐到期：2023-08-26, server: us01.airpor.top, port: 28235, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: US01, server: us01.airpor.top, port: 28235, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: US02, server: us02.airpor.top, port: 28908, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: US03, server: us03.airpor.top, port: 22870, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: SG01, server: sg01.airpor.top, port: 45547, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: SG02, server: sg01.airpor.top, port: 24369, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: JP01, server: jp.airpor.top, port: 37083, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
+  - {name: JP02, server: jp.airpor.top, port: 37815, type: ss, cipher: chacha20-ietf-poly1305, password: 4f03eaa9-a025-4f82-accd-92df2d82e9d9, udp: true}
