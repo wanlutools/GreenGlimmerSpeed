@@ -11,3 +11,46 @@ proxies:
   - {name: 🇺🇸 8D1【精品|GPT线路】上海-美国 | 解锁Netflix 、Disney+ | V2RAY隧道 |, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: deb.debian.org}}, udp: true}
   - {name: "🏳️‍🌈 ️‍🌈 8D2【精品|GPT线路】美国 | 5x流量 | V2RAY隧道 |\t", server: data-us-v2.usabooks.com.cn, port: 20402, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: deb.debian.org}}, udp: true}
   - {name: 🇸🇬 8E1【精品|GPT线路】上海-新加坡 | V2RAY隧道 |, server: data-sg-v1.shwjfkw.cn, port: 20701, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: deb.debian.org}}, udp: true}
+  - {name: ⭐️TG：@Helloworld_1024, server: 120.232.240.56, port: 11428, type: ssr, cipher: chacha20-ietf, password: Fhbe0z, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 24:SpYUtPeJYhRk4FWC, obfs-param: 6f41b24.microsoft.com, udp: true}
+  - {name: 西班物7, server: 85.117.235.107, port: 8917, type: ss, cipher: aes-256-gcm, password: a6fd0116b1bdfcc7, udp: true}
+  - {name: 🇨🇳 🅷🆆 台湾12, server: 185.22.155.97, port: 8917, type: ss, cipher: aes-256-gcm, password: fb1fdede6c0f4948, udp: true}
+  - {name: 🇫🇷 🅷🆆 法国2, server: 185.22.155.70, port: 8916, type: ss, cipher: aes-256-gcm, password: afe96c75b1061b72, udp: true}
+  - {name: 🇰🇷 🅷🆆 韩国1, server: 85.117.235.107, port: 8917, type: ss, cipher: aes-256-gcm, password: a6fd0116b1bdfcc7, udp: true}
+  - {name: 🇸🇬 🅷🆆 新加坡9, server: 45.130.146.234, port: 8915, type: ss, cipher: aes-256-gcm, password: 96c6db76ff872d03, udp: true}
+  - {name: 🇹🇭 🅷🆆 泰国3, server: 45.130.147.132, port: 8912, type: ss, cipher: aes-256-gcm, password: 1bcae8007680dca3, udp: true}
+  - {name: 🇺🇸 🅷🆆 美国8, server: 185.22.155.124, port: 9612, type: ss, cipher: aes-256-gcm, password: 6f44dd5d39d71323, udp: true}
+  - {name: 🇨🇳 🅷🆆 台湾, server: 120.232.240.19, port: 8351, type: ss, cipher: chacha20, password: g5ESftBL3tjd, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港, server: 120.232.240.19, port: 8321, type: ss, cipher: chacha20, password: passLUsO2Ktuer77tu, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港1, server: 120.232.240.19, port: 9001, type: ss, cipher: chacha20, password: nUthZ7z3VmyV, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港2, server: 120.232.240.19, port: 9002, type: ss, cipher: chacha20, password: PTgFLLrT5pVg, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港3, server: 120.232.240.19, port: 9003, type: ss, cipher: chacha20, password: v5aUUtme3jxs, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港4, server: 120.232.240.19, port: 9004, type: ss, cipher: chacha20, password: s6Zau9ioic, udp: true}
+  - {name: 🇭🇰 🅷🆆 香港5, server: 120.232.240.19, port: 9005, type: ss, cipher: chacha20, password: sJMdcI7NPj, udp: true}
+  - {name: 🇮🇱 🅷🆆 以色列, server: 120.232.240.19, port: 8348, type: ss, cipher: chacha20, password: N9k4f2PORl14, udp: true}
+  - {name: 🇯🇵 🅷🆆 日本, server: 120.232.240.19, port: 8331, type: ss, cipher: chacha20, password: GqbcCfh365aT, udp: true}
+  - {name: 🇯🇵 🅷🆆 日本2, server: 120.232.240.19, port: 8335, type: ss, cipher: chacha20, password: avpBqFFmsYBN, udp: true}
+  - {name: 🇰🇷 🅷🆆 首尔, server: 120.232.240.19, port: 8339, type: ss, cipher: chacha20, password: ADZmRQUGHTwX, udp: true}
+  - {name: 🇸🇬 🅷🆆 新加坡, server: 120.232.240.19, port: 8334, type: ss, cipher: chacha20, password: DvPfKa8vsV9K, udp: true}
+  - {name: 🇸🇬 🅷🆆 洛杉矶新, server: 120.232.240.19, port: 8332, type: ss, cipher: chacha20, password: 8BZ5uBrPuUDY, udp: true}
+  - {name: 🇺🇸 🅷🆆 洛杉矶, server: 120.232.240.19, port: 8342, type: ss, cipher: chacha20, password: r8jh6ZeykHvB, udp: true}
+  - {name: 🇺🇸 🅷🆆 达拉斯, server: 120.232.240.19, port: 8344, type: ss, cipher: chacha20, password: wDazHDu63gcg, udp: true}
+  - {name: 🇩🇪 🅷🆆 法兰克福, server: 120.232.240.19, port: 8333, type: ss, cipher: chacha20, password: jrgc64sFSLQM, udp: true}
+  - {name: 🇫🇷 🅷🆆 巴黎, server: 120.232.240.19, port: 8347, type: ss, cipher: chacha20, password: q2kSGp4ayFKB, udp: true}
+  - {name: 🇬🇧 🅷🆆 英国, server: 120.232.240.19, port: 8337, type: ss, cipher: chacha20, password: 3fn3CH5Swh2N, udp: true}
+  - {name: 纽约, server: 120.232.240.19, port: 8349, type: ss, cipher: chacha20, password: d3baK6NW2HEc, udp: true}
+  - {name: 🇦🇺 🅷🆆 澳大利亚, server: 120.232.240.19, port: 8341, type: ss, cipher: chacha20, password: zWyQvJbQRZaV, udp: true}
+  - {name: 🇨🇦 🅷🆆 加拿大, server: 120.232.240.19, port: 8343, type: ss, cipher: chacha20, password: dkYsdgWqegNV, udp: true}
+  - {name: 🇭🇰 🅷🆆 HK 1, server: 36.141.40.27, port: 14002, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 🅷🆆 HK 2, server: 36.141.40.27, port: 13003, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 🅷🆆 HK 3, server: 36.141.40.27, port: 13001, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: i2.hdslb.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 🅷🆆 JP, server: 120.233.27.38, port: 13061, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 🅷🆆 JP 2, server: 120.241.118.157, port: 13049, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 🅷🆆 JP 3, server: 120.241.118.157, port: 13048, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 🅷🆆 SG, server: 36.141.40.27, port: 14009, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 🅷🆆 SG 2, server: 36.141.40.27, port: 14008, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 🅷🆆 SG 3, server: 36.141.40.27, port: 13007, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 🅷🆆 US, server: 36.141.40.27, port: 13056, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 🅷🆆 US 2, server: 36.141.40.27, port: 13053, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 🅷🆆 US 3, server: 36.141.40.27, port: 13063, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 🅷🆆 US 4, server: 36.141.40.27, port: 13064, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 🅷🆆 US 5, server: 36.141.40.27, port: 13054, type: trojan, password: 7745cd82-55ad-39e5-8cb9-bd605b8808d3, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
